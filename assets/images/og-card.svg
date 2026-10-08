@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c0f13"/><stop offset="1" stop-color="#08090b"/></linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#252a31" stroke-width="1"/></pattern>
+    <radialGradient id="blue" cx="78%" cy="35%" r="56%"><stop stop-color="#276fcd" stop-opacity=".25"/><stop offset="1" stop-color="#276fcd" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#grid)"/><rect width="1200" height="630" fill="url(#blue)"/>
+  <rect x="82" y="77" width="50" height="50" rx="11" fill="#171a1e" stroke="#373d45"/><text x="107" y="112" fill="#f5f6f7" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="700">D<tspan fill="#5b9aff">.</tspan></text>
+  <text x="82" y="238" fill="#5b9aff" font-family="monospace" font-size="17" letter-spacing="4">WEBSITES · AI · AUTOMATION</text>
+  <text x="82" y="324" fill="#f5f6f7" font-family="Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-3">Daniel</text>
+  <text x="82" y="390" fill="#a1a8b2" font-family="Arial,sans-serif" font-size="34">Website Developer &amp; AI Automation Engineer</text>
+  <text x="82" y="510" fill="#87909c" font-family="monospace" font-size="15" letter-spacing="3">BUILDING THOUGHTFUL DIGITAL THINGS · NIGERIA</text>
+  <g transform="translate(865 180)" fill="none" stroke="#5b9aff" stroke-opacity=".5"><rect width="220" height="58" rx="5"/><rect x="0" y="91" width="220" height="58" rx="5"/><rect x="0" y="182" width="220" height="58" rx="5"/><path d="M110 58v33m0 58v33"/></g>
+  <g transform="translate(888 202)" fill="#d7e4f5" font-family="monospace" font-size="14"><text x="0" y="15">WEB ENGINEERING</text><text x="0" y="106">APPLIED INTELLIGENCE</text><text x="0" y="197">USEFUL OUTCOMES</text></g>
+</svg>

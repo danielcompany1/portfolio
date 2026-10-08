@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" viewBox="0 0 640 720" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder for Daniel</title>
+  <desc id="desc">Abstract dark portrait placeholder with a blue monogram, to be replaced with a personal photo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12161d"/><stop offset="1" stop-color="#08090b"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="55%"><stop stop-color="#24558b" stop-opacity=".35"/><stop offset="1" stop-color="#24558b" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9ba2ad" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="640" height="720" fill="url(#bg)"/>
+  <rect width="640" height="720" fill="url(#glow)"/>
+  <rect width="640" height="720" fill="url(#grid)"/>
+  <circle cx="320" cy="278" r="132" fill="#10151c" stroke="#303b49" stroke-width="2"/>
+  <circle cx="320" cy="278" r="111" fill="none" stroke="#5b9aff" stroke-opacity=".38"/>
+  <text x="320" y="306" fill="#f5f6f7" text-anchor="middle" font-family="Manrope,Arial,sans-serif" font-size="84" font-weight="700" letter-spacing="-8">D<tspan fill="#5b9aff">.</tspan></text>
+  <path d="M121 492h398M157 520h326M198 548h244" stroke="#4a5664" stroke-opacity=".58"/>
+  <text x="320" y="606" fill="#d8dde4" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3">ADD YOUR PORTRAIT</text>
+  <text x="320" y="632" fill="#8c96a3" text-anchor="middle" font-family="monospace" font-size="9" letter-spacing="2">ASSETS / IMAGES / PROFILE</text>
+</svg>
