@@ -22,9 +22,9 @@ The custom stylesheet provides the full visual design. Tailwind CSS and Manrope/
 
 ## Projects
 
-The project cards are illustrative concept previews, not claims of completed work. Keep them labeled as concepts until real project details are available.
+The Student Directory is the first demo project; its screenshot is stored in `assets/projects/student-directory/screenshot.png`, and its demo link points to the local development URL `http://127.0.0.1:3000/`. The remaining project cards are illustrative concepts.
 
-To add a real project, copy a project-card article in projects.html, give it a unique id, update data-project-category to web, ai, automation or backend, and replace the title, summary, tags, artwork and links. The home page has three separate featured cards in index.html; update those as well. Use real demo and repository URLs only. The project filters in js/script.js use the category data attribute.
+To add a real project, copy a project-card article in projects.html, give it a unique id, update data-project-category to web, ai, automation or backend, and replace the title, summary, tags, artwork and links. Store project screenshots under `assets/projects/<project-name>/`. The home page has three separate featured cards in index.html; update those as well. The project filters in js/script.js use the category data attribute.
 
 ## Contact form
 
