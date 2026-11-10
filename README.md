@@ -22,7 +22,7 @@ The custom stylesheet provides the full visual design. Tailwind CSS and Manrope/
 
 ## Projects
 
-The Student Directory is the first demo project; its screenshot is stored in `assets/projects/student-directory/screenshot.png`, and its demo link points to the local development URL `http://127.0.0.1:3000/`. The remaining project cards are illustrative concepts.
+The Lens Polytechnic Student Portal is the first demo project; its redacted sign-in screenshot is stored in `assets/projects/student-directory/portal-login.png`, and its demo link points to the local development URL `http://127.0.0.1:3000/`. The earlier student records screenshot remains in the same folder. The remaining project cards are illustrative concepts.
 
 To add a real project, copy a project-card article in projects.html, give it a unique id, update data-project-category to web, ai, automation or backend, and replace the title, summary, tags, artwork and links. Store project screenshots under `assets/projects/<project-name>/`. The home page has three separate featured cards in index.html; update those as well. The project filters in js/script.js use the category data attribute.
 
